@@ -1,5 +1,7 @@
 #include <iostream>
 #include <chrono>
+#include <fstream>
+#include <cstdlib>
 
 using namespace std;
 
@@ -19,18 +21,38 @@ void interDirectoDer(int A[], int n, long long &comparaciones, long long &interc
 }
 
 int main() {
-    int A[] = {12, 5, 8, 1, 9, 3, 15, 20, 2};
-    int n = 9;
-    long long comparaciones = 0;
-    long long intercambios = 0;
+    int tamanos[] = {100, 1000, 5000, 10000};
+    
+    ofstream archivo("results/resultados.csv", ios::app);
+    if (!archivo.is_open()) {
+        cout << "Error al abrir el archivo de resultados." << endl;
+        return 1;
+    }
 
-    auto begin = chrono::steady_clock::now();
-    interDirectoDer(A, n, comparaciones, intercambios);
-    auto end = chrono::steady_clock::now();
+    for (int n : tamanos) {
+        int* A = new int[n];
+        
+        for (int i = 0; i < n; i++) {
+            A[i] = rand() % 10000;
+        }
 
-    cout << "Comparaciones: " << comparaciones << endl;
-    cout << "Intercambios: " << intercambios << endl;
-    cout << "Tiempo en ms: " << chrono::duration_cast<chrono::milliseconds>(end - begin).count() << " ms" << endl;
+        long long comparaciones = 0;
+        long long intercambios = 0;
 
+        auto begin = chrono::steady_clock::now();
+        interDirectoDer(A, n, comparaciones, intercambios);
+        auto end = chrono::steady_clock::now();
+
+        auto tiempo = chrono::duration_cast<chrono::milliseconds>(end - begin).count();
+
+        archivo << "IntercambioDirecto," << n << "," << tiempo << "," 
+                << comparaciones << "," << intercambios << "\n";
+
+        cout << "Prueba finalizada para N = " << n << endl;
+        delete[] A; 
+    }
+
+    archivo.close();
+    cout << "Datos guardados en results/resultados.csv con exito!" << endl;
     return 0;
 }
