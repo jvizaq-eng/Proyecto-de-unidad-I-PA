@@ -1,4 +1,6 @@
 #include <iostream>
+#include <chrono>
+
 using namespace std;
 
 void interDirectoDer(int A[], int n) {
@@ -15,20 +17,14 @@ void interDirectoDer(int A[], int n) {
 }
 
 int main() {
-    int n;
-    cout << "Ingresa la cantidad de elementos: ";
-    cin >> n;
-    int A[n];
-    cout << "Ingresa los " << n << " numeros:" << endl;
-    for (int i = 0; i < n; i++) {
-        cout << "Elemento [" << i << "]: ";
-        cin >> A[i];
-    }
+    int A[] = {12, 5, 8, 1, 9, 3, 15, 20, 2};
+    int n = 9;
+
+    auto begin = chrono::steady_clock::now();
     interDirectoDer(A, n);
-    cout << "\nArreglo ordenado de menor a mayor:" << endl;
-    for (int i = 0; i < n; i++) {
-        cout << A[i] << " ";
-    }
-    cout << endl;
+    auto end = chrono::steady_clock::now();
+
+    cout << "Tiempo en ms: " << chrono::duration_cast<chrono::milliseconds>(end - begin).count() << " ms" << endl;
+
     return 0;
 }
