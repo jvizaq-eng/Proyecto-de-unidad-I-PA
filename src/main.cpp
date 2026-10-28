@@ -59,7 +59,7 @@ vector<int> generarInstancia(int n, const string& patron, int semilla) {
         for (int i = 0; i < n; i++) v[i] = i + 1;
     } else if (patron == "Descendente") {
         for (int i = 0; i < n; i++) v[i] = n - i;
-    } else { // Aleatorio uniforme
+    } else { 
         mt19937 rng(semilla);
         uniform_int_distribution<int> dist(1, 100000);
         for (int i = 0; i < n; i++) v[i] = dist(rng);
@@ -74,7 +74,6 @@ int main() {
 
     ofstream csv("results/resultados.csv");
     csv << "algoritmo,n,patron,repeticion,tiempo_ms,comparaciones,intercambios,profundidad_recursion,semilla,commit_hash\n";
-
     cout << "Ejecutando experimentos..." << endl;
 
     for (int n : tamanos) {
