@@ -1,9 +1,0 @@
-Algoritmo,N,Tiempo_ms,Comparaciones,Intercambios
-IntercambioDirecto,100,0,4950,2609
-IntercambioDirecto,1000,3,499500,247489
-IntercambioDirecto,5000,62,12497500,6293001
-IntercambioDirecto,10000,236,49995000,24902617
-Shellsort,100,0,796,347
-Shellsort,1000,0,15122,7629
-Shellsort,5000,1,111163,58708
-Shellsort,10000,3,270657,155697
