@@ -1,0 +1,721 @@
+algoritmo,n,patron,repeticion,tiempo_ms,comparaciones,intercambios,profundidad_recursion,semilla,commit_hash
+Intercambio Directo,100,Aleatorio,1,0.0000,4950,2520,0,1001,a1b2c3d
+Shellsort,100,Aleatorio,1,0.0000,837,392,0,1001,a1b2c3d
+Intercambio Directo,100,Aleatorio,2,0.0000,4950,2357,0,1002,a1b2c3d
+Shellsort,100,Aleatorio,2,0.0000,804,351,0,1002,a1b2c3d
+Intercambio Directo,100,Aleatorio,3,0.0000,4950,2315,0,1003,a1b2c3d
+Shellsort,100,Aleatorio,3,0.0000,843,385,0,1003,a1b2c3d
+Intercambio Directo,100,Aleatorio,4,0.0000,4950,2347,0,1004,a1b2c3d
+Shellsort,100,Aleatorio,4,0.0000,887,425,0,1004,a1b2c3d
+Intercambio Directo,100,Aleatorio,5,0.0000,4950,2439,0,1005,a1b2c3d
+Shellsort,100,Aleatorio,5,0.0000,875,421,0,1005,a1b2c3d
+Intercambio Directo,100,Aleatorio,6,0.0000,4950,2726,0,1006,a1b2c3d
+Shellsort,100,Aleatorio,6,0.0000,867,422,0,1006,a1b2c3d
+Intercambio Directo,100,Aleatorio,7,0.0000,4950,2431,0,1007,a1b2c3d
+Shellsort,100,Aleatorio,7,0.0000,856,409,0,1007,a1b2c3d
+Intercambio Directo,100,Aleatorio,8,0.0000,4950,2390,0,1008,a1b2c3d
+Shellsort,100,Aleatorio,8,0.0000,905,454,0,1008,a1b2c3d
+Intercambio Directo,100,Aleatorio,9,0.0000,4950,2284,0,1009,a1b2c3d
+Shellsort,100,Aleatorio,9,0.0000,828,368,0,1009,a1b2c3d
+Intercambio Directo,100,Aleatorio,10,0.0000,4950,2425,0,1010,a1b2c3d
+Shellsort,100,Aleatorio,10,0.0000,862,409,0,1010,a1b2c3d
+Intercambio Directo,100,Aleatorio,11,1.0480,4950,2435,0,1011,a1b2c3d
+Shellsort,100,Aleatorio,11,0.0000,787,333,0,1011,a1b2c3d
+Intercambio Directo,100,Aleatorio,12,0.0000,4950,2577,0,1012,a1b2c3d
+Shellsort,100,Aleatorio,12,0.0000,894,447,0,1012,a1b2c3d
+Intercambio Directo,100,Aleatorio,13,0.9940,4950,2374,0,1013,a1b2c3d
+Shellsort,100,Aleatorio,13,0.0000,799,338,0,1013,a1b2c3d
+Intercambio Directo,100,Aleatorio,14,0.0000,4950,2492,0,1014,a1b2c3d
+Shellsort,100,Aleatorio,14,0.0000,925,466,0,1014,a1b2c3d
+Intercambio Directo,100,Aleatorio,15,0.0000,4950,2767,0,1015,a1b2c3d
+Shellsort,100,Aleatorio,15,0.0000,889,437,0,1015,a1b2c3d
+Intercambio Directo,100,Aleatorio,16,0.5160,4950,2608,0,1016,a1b2c3d
+Shellsort,100,Aleatorio,16,0.0000,819,368,0,1016,a1b2c3d
+Intercambio Directo,100,Aleatorio,17,0.0000,4950,2510,0,1017,a1b2c3d
+Shellsort,100,Aleatorio,17,0.0000,819,373,0,1017,a1b2c3d
+Intercambio Directo,100,Aleatorio,18,0.0000,4950,2520,0,1018,a1b2c3d
+Shellsort,100,Aleatorio,18,0.0000,819,366,0,1018,a1b2c3d
+Intercambio Directo,100,Aleatorio,19,1.0100,4950,2569,0,1019,a1b2c3d
+Shellsort,100,Aleatorio,19,0.0000,850,395,0,1019,a1b2c3d
+Intercambio Directo,100,Aleatorio,20,0.0000,4950,2479,0,1020,a1b2c3d
+Shellsort,100,Aleatorio,20,0.0000,855,401,0,1020,a1b2c3d
+Intercambio Directo,100,Aleatorio,21,0.0000,4950,2494,0,1021,a1b2c3d
+Shellsort,100,Aleatorio,21,0.0000,883,432,0,1021,a1b2c3d
+Intercambio Directo,100,Aleatorio,22,0.0000,4950,2359,0,1022,a1b2c3d
+Shellsort,100,Aleatorio,22,0.0000,857,405,0,1022,a1b2c3d
+Intercambio Directo,100,Aleatorio,23,0.0000,4950,2566,0,1023,a1b2c3d
+Shellsort,100,Aleatorio,23,0.0000,911,458,0,1023,a1b2c3d
+Intercambio Directo,100,Aleatorio,24,0.0000,4950,2642,0,1024,a1b2c3d
+Shellsort,100,Aleatorio,24,0.0000,829,378,0,1024,a1b2c3d
+Intercambio Directo,100,Aleatorio,25,0.0000,4950,2499,0,1025,a1b2c3d
+Shellsort,100,Aleatorio,25,0.0000,931,479,0,1025,a1b2c3d
+Intercambio Directo,100,Aleatorio,26,0.0000,4950,2266,0,1026,a1b2c3d
+Shellsort,100,Aleatorio,26,0.0000,824,368,0,1026,a1b2c3d
+Intercambio Directo,100,Aleatorio,27,0.0000,4950,2642,0,1027,a1b2c3d
+Shellsort,100,Aleatorio,27,0.0000,833,382,0,1027,a1b2c3d
+Intercambio Directo,100,Aleatorio,28,0.0000,4950,2483,0,1028,a1b2c3d
+Shellsort,100,Aleatorio,28,0.0000,860,407,0,1028,a1b2c3d
+Intercambio Directo,100,Aleatorio,29,0.0000,4950,2222,0,1029,a1b2c3d
+Shellsort,100,Aleatorio,29,0.0000,908,452,0,1029,a1b2c3d
+Intercambio Directo,100,Aleatorio,30,0.9880,4950,2430,0,1030,a1b2c3d
+Shellsort,100,Aleatorio,30,0.0000,907,452,0,1030,a1b2c3d
+Intercambio Directo,100,Ascendente,1,0.0000,4950,0,0,1001,a1b2c3d
+Shellsort,100,Ascendente,1,0.0000,503,0,0,1001,a1b2c3d
+Intercambio Directo,100,Ascendente,2,0.0000,4950,0,0,1002,a1b2c3d
+Shellsort,100,Ascendente,2,0.0000,503,0,0,1002,a1b2c3d
+Intercambio Directo,100,Ascendente,3,0.0000,4950,0,0,1003,a1b2c3d
+Shellsort,100,Ascendente,3,0.0000,503,0,0,1003,a1b2c3d
+Intercambio Directo,100,Ascendente,4,0.0000,4950,0,0,1004,a1b2c3d
+Shellsort,100,Ascendente,4,0.0000,503,0,0,1004,a1b2c3d
+Intercambio Directo,100,Ascendente,5,0.0000,4950,0,0,1005,a1b2c3d
+Shellsort,100,Ascendente,5,0.0000,503,0,0,1005,a1b2c3d
+Intercambio Directo,100,Ascendente,6,0.9770,4950,0,0,1006,a1b2c3d
+Shellsort,100,Ascendente,6,0.0000,503,0,0,1006,a1b2c3d
+Intercambio Directo,100,Ascendente,7,0.0000,4950,0,0,1007,a1b2c3d
+Shellsort,100,Ascendente,7,0.0000,503,0,0,1007,a1b2c3d
+Intercambio Directo,100,Ascendente,8,0.0000,4950,0,0,1008,a1b2c3d
+Shellsort,100,Ascendente,8,0.0000,503,0,0,1008,a1b2c3d
+Intercambio Directo,100,Ascendente,9,0.0000,4950,0,0,1009,a1b2c3d
+Shellsort,100,Ascendente,9,0.0000,503,0,0,1009,a1b2c3d
+Intercambio Directo,100,Ascendente,10,0.0000,4950,0,0,1010,a1b2c3d
+Shellsort,100,Ascendente,10,0.0000,503,0,0,1010,a1b2c3d
+Intercambio Directo,100,Ascendente,11,0.0000,4950,0,0,1011,a1b2c3d
+Shellsort,100,Ascendente,11,0.0000,503,0,0,1011,a1b2c3d
+Intercambio Directo,100,Ascendente,12,0.0000,4950,0,0,1012,a1b2c3d
+Shellsort,100,Ascendente,12,0.0000,503,0,0,1012,a1b2c3d
+Intercambio Directo,100,Ascendente,13,1.0170,4950,0,0,1013,a1b2c3d
+Shellsort,100,Ascendente,13,0.0000,503,0,0,1013,a1b2c3d
+Intercambio Directo,100,Ascendente,14,0.0000,4950,0,0,1014,a1b2c3d
+Shellsort,100,Ascendente,14,0.0000,503,0,0,1014,a1b2c3d
+Intercambio Directo,100,Ascendente,15,0.0000,4950,0,0,1015,a1b2c3d
+Shellsort,100,Ascendente,15,0.0000,503,0,0,1015,a1b2c3d
+Intercambio Directo,100,Ascendente,16,0.0000,4950,0,0,1016,a1b2c3d
+Shellsort,100,Ascendente,16,0.0000,503,0,0,1016,a1b2c3d
+Intercambio Directo,100,Ascendente,17,0.0000,4950,0,0,1017,a1b2c3d
+Shellsort,100,Ascendente,17,0.0000,503,0,0,1017,a1b2c3d
+Intercambio Directo,100,Ascendente,18,0.0000,4950,0,0,1018,a1b2c3d
+Shellsort,100,Ascendente,18,0.0000,503,0,0,1018,a1b2c3d
+Intercambio Directo,100,Ascendente,19,0.0000,4950,0,0,1019,a1b2c3d
+Shellsort,100,Ascendente,19,0.0000,503,0,0,1019,a1b2c3d
+Intercambio Directo,100,Ascendente,20,0.9990,4950,0,0,1020,a1b2c3d
+Shellsort,100,Ascendente,20,0.0000,503,0,0,1020,a1b2c3d
+Intercambio Directo,100,Ascendente,21,0.0000,4950,0,0,1021,a1b2c3d
+Shellsort,100,Ascendente,21,0.0000,503,0,0,1021,a1b2c3d
+Intercambio Directo,100,Ascendente,22,0.0000,4950,0,0,1022,a1b2c3d
+Shellsort,100,Ascendente,22,0.0000,503,0,0,1022,a1b2c3d
+Intercambio Directo,100,Ascendente,23,0.0000,4950,0,0,1023,a1b2c3d
+Shellsort,100,Ascendente,23,0.0000,503,0,0,1023,a1b2c3d
+Intercambio Directo,100,Ascendente,24,0.0000,4950,0,0,1024,a1b2c3d
+Shellsort,100,Ascendente,24,0.0000,503,0,0,1024,a1b2c3d
+Intercambio Directo,100,Ascendente,25,0.0000,4950,0,0,1025,a1b2c3d
+Shellsort,100,Ascendente,25,0.0000,503,0,0,1025,a1b2c3d
+Intercambio Directo,100,Ascendente,26,0.0000,4950,0,0,1026,a1b2c3d
+Shellsort,100,Ascendente,26,0.0000,503,0,0,1026,a1b2c3d
+Intercambio Directo,100,Ascendente,27,1.0610,4950,0,0,1027,a1b2c3d
+Shellsort,100,Ascendente,27,0.0000,503,0,0,1027,a1b2c3d
+Intercambio Directo,100,Ascendente,28,0.0000,4950,0,0,1028,a1b2c3d
+Shellsort,100,Ascendente,28,0.0000,503,0,0,1028,a1b2c3d
+Intercambio Directo,100,Ascendente,29,0.0000,4950,0,0,1029,a1b2c3d
+Shellsort,100,Ascendente,29,0.0000,503,0,0,1029,a1b2c3d
+Intercambio Directo,100,Ascendente,30,0.0000,4950,0,0,1030,a1b2c3d
+Shellsort,100,Ascendente,30,0.0000,503,0,0,1030,a1b2c3d
+Intercambio Directo,100,Descendente,1,0.0000,4950,4950,0,1001,a1b2c3d
+Shellsort,100,Descendente,1,0.0000,668,260,0,1001,a1b2c3d
+Intercambio Directo,100,Descendente,2,0.9260,4950,4950,0,1002,a1b2c3d
+Shellsort,100,Descendente,2,0.0000,668,260,0,1002,a1b2c3d
+Intercambio Directo,100,Descendente,3,0.0000,4950,4950,0,1003,a1b2c3d
+Shellsort,100,Descendente,3,0.0000,668,260,0,1003,a1b2c3d
+Intercambio Directo,100,Descendente,4,0.0000,4950,4950,0,1004,a1b2c3d
+Shellsort,100,Descendente,4,0.0000,668,260,0,1004,a1b2c3d
+Intercambio Directo,100,Descendente,5,0.9580,4950,4950,0,1005,a1b2c3d
+Shellsort,100,Descendente,5,0.0000,668,260,0,1005,a1b2c3d
+Intercambio Directo,100,Descendente,6,0.4070,4950,4950,0,1006,a1b2c3d
+Shellsort,100,Descendente,6,0.0000,668,260,0,1006,a1b2c3d
+Intercambio Directo,100,Descendente,7,0.0000,4950,4950,0,1007,a1b2c3d
+Shellsort,100,Descendente,7,0.0000,668,260,0,1007,a1b2c3d
+Intercambio Directo,100,Descendente,8,0.6360,4950,4950,0,1008,a1b2c3d
+Shellsort,100,Descendente,8,0.0000,668,260,0,1008,a1b2c3d
+Intercambio Directo,100,Descendente,9,0.0000,4950,4950,0,1009,a1b2c3d
+Shellsort,100,Descendente,9,0.0000,668,260,0,1009,a1b2c3d
+Intercambio Directo,100,Descendente,10,0.0000,4950,4950,0,1010,a1b2c3d
+Shellsort,100,Descendente,10,0.0000,668,260,0,1010,a1b2c3d
+Intercambio Directo,100,Descendente,11,0.9960,4950,4950,0,1011,a1b2c3d
+Shellsort,100,Descendente,11,0.0000,668,260,0,1011,a1b2c3d
+Intercambio Directo,100,Descendente,12,0.0000,4950,4950,0,1012,a1b2c3d
+Shellsort,100,Descendente,12,0.0000,668,260,0,1012,a1b2c3d
+Intercambio Directo,100,Descendente,13,0.0000,4950,4950,0,1013,a1b2c3d
+Shellsort,100,Descendente,13,0.0000,668,260,0,1013,a1b2c3d
+Intercambio Directo,100,Descendente,14,0.9990,4950,4950,0,1014,a1b2c3d
+Shellsort,100,Descendente,14,0.0000,668,260,0,1014,a1b2c3d
+Intercambio Directo,100,Descendente,15,0.0000,4950,4950,0,1015,a1b2c3d
+Shellsort,100,Descendente,15,0.0000,668,260,0,1015,a1b2c3d
+Intercambio Directo,100,Descendente,16,0.0000,4950,4950,0,1016,a1b2c3d
+Shellsort,100,Descendente,16,0.0000,668,260,0,1016,a1b2c3d
+Intercambio Directo,100,Descendente,17,0.9950,4950,4950,0,1017,a1b2c3d
+Shellsort,100,Descendente,17,0.0000,668,260,0,1017,a1b2c3d
+Intercambio Directo,100,Descendente,18,0.0000,4950,4950,0,1018,a1b2c3d
+Shellsort,100,Descendente,18,0.5910,668,260,0,1018,a1b2c3d
+Intercambio Directo,100,Descendente,19,0.0000,4950,4950,0,1019,a1b2c3d
+Shellsort,100,Descendente,19,0.0000,668,260,0,1019,a1b2c3d
+Intercambio Directo,100,Descendente,20,0.3650,4950,4950,0,1020,a1b2c3d
+Shellsort,100,Descendente,20,0.0000,668,260,0,1020,a1b2c3d
+Intercambio Directo,100,Descendente,21,0.0000,4950,4950,0,1021,a1b2c3d
+Shellsort,100,Descendente,21,0.0000,668,260,0,1021,a1b2c3d
+Intercambio Directo,100,Descendente,22,0.0000,4950,4950,0,1022,a1b2c3d
+Shellsort,100,Descendente,22,0.0000,668,260,0,1022,a1b2c3d
+Intercambio Directo,100,Descendente,23,1.0370,4950,4950,0,1023,a1b2c3d
+Shellsort,100,Descendente,23,0.0000,668,260,0,1023,a1b2c3d
+Intercambio Directo,100,Descendente,24,0.0000,4950,4950,0,1024,a1b2c3d
+Shellsort,100,Descendente,24,0.0000,668,260,0,1024,a1b2c3d
+Intercambio Directo,100,Descendente,25,0.0000,4950,4950,0,1025,a1b2c3d
+Shellsort,100,Descendente,25,0.0000,668,260,0,1025,a1b2c3d
+Intercambio Directo,100,Descendente,26,1.0010,4950,4950,0,1026,a1b2c3d
+Shellsort,100,Descendente,26,0.0000,668,260,0,1026,a1b2c3d
+Intercambio Directo,100,Descendente,27,0.0000,4950,4950,0,1027,a1b2c3d
+Shellsort,100,Descendente,27,0.0000,668,260,0,1027,a1b2c3d
+Intercambio Directo,100,Descendente,28,0.0000,4950,4950,0,1028,a1b2c3d
+Shellsort,100,Descendente,28,0.0000,668,260,0,1028,a1b2c3d
+Intercambio Directo,100,Descendente,29,0.9920,4950,4950,0,1029,a1b2c3d
+Shellsort,100,Descendente,29,0.0000,668,260,0,1029,a1b2c3d
+Intercambio Directo,100,Descendente,30,0.0000,4950,4950,0,1030,a1b2c3d
+Shellsort,100,Descendente,30,0.0000,668,260,0,1030,a1b2c3d
+Intercambio Directo,1000,Aleatorio,1,21.9450,499500,254890,0,1001,a1b2c3d
+Shellsort,1000,Aleatorio,1,0.9470,15421,7954,0,1001,a1b2c3d
+Intercambio Directo,1000,Aleatorio,2,19.9960,499500,252390,0,1002,a1b2c3d
+Shellsort,1000,Aleatorio,2,0.0000,14850,7359,0,1002,a1b2c3d
+Intercambio Directo,1000,Aleatorio,3,16.9570,499500,247074,0,1003,a1b2c3d
+Shellsort,1000,Aleatorio,3,0.9440,14904,7422,0,1003,a1b2c3d
+Intercambio Directo,1000,Aleatorio,4,11.0100,499500,248306,0,1004,a1b2c3d
+Shellsort,1000,Aleatorio,4,0.0000,14751,7252,0,1004,a1b2c3d
+Intercambio Directo,1000,Aleatorio,5,8.9780,499500,247054,0,1005,a1b2c3d
+Shellsort,1000,Aleatorio,5,0.9970,14822,7345,0,1005,a1b2c3d
+Intercambio Directo,1000,Aleatorio,6,6.9410,499500,247418,0,1006,a1b2c3d
+Shellsort,1000,Aleatorio,6,0.0000,15325,7818,0,1006,a1b2c3d
+Intercambio Directo,1000,Aleatorio,7,7.9780,499500,248635,0,1007,a1b2c3d
+Shellsort,1000,Aleatorio,7,0.0000,16205,8714,0,1007,a1b2c3d
+Intercambio Directo,1000,Aleatorio,8,7.0220,499500,253240,0,1008,a1b2c3d
+Shellsort,1000,Aleatorio,8,0.9960,16174,8690,0,1008,a1b2c3d
+Intercambio Directo,1000,Aleatorio,9,7.9400,499500,255177,0,1009,a1b2c3d
+Shellsort,1000,Aleatorio,9,0.0000,14966,7491,0,1009,a1b2c3d
+Intercambio Directo,1000,Aleatorio,10,9.1860,499500,242161,0,1010,a1b2c3d
+Shellsort,1000,Aleatorio,10,0.0000,14867,7356,0,1010,a1b2c3d
+Intercambio Directo,1000,Aleatorio,11,9.7640,499500,240940,0,1011,a1b2c3d
+Shellsort,1000,Aleatorio,11,0.9980,14637,7116,0,1011,a1b2c3d
+Intercambio Directo,1000,Aleatorio,12,9.9730,499500,245277,0,1012,a1b2c3d
+Shellsort,1000,Aleatorio,12,0.9970,14717,7215,0,1012,a1b2c3d
+Intercambio Directo,1000,Aleatorio,13,9.9740,499500,251366,0,1013,a1b2c3d
+Shellsort,1000,Aleatorio,13,0.0000,15316,7808,0,1013,a1b2c3d
+Intercambio Directo,1000,Aleatorio,14,9.9730,499500,260525,0,1014,a1b2c3d
+Shellsort,1000,Aleatorio,14,0.0000,14662,7204,0,1014,a1b2c3d
+Intercambio Directo,1000,Aleatorio,15,9.9730,499500,265222,0,1015,a1b2c3d
+Shellsort,1000,Aleatorio,15,0.9970,14975,7509,0,1015,a1b2c3d
+Intercambio Directo,1000,Aleatorio,16,9.9730,499500,256000,0,1016,a1b2c3d
+Shellsort,1000,Aleatorio,16,0.9980,16136,8666,0,1016,a1b2c3d
+Intercambio Directo,1000,Aleatorio,17,9.9720,499500,252194,0,1017,a1b2c3d
+Shellsort,1000,Aleatorio,17,0.0000,15025,7538,0,1017,a1b2c3d
+Intercambio Directo,1000,Aleatorio,18,8.9760,499500,249604,0,1018,a1b2c3d
+Shellsort,1000,Aleatorio,18,0.0000,15133,7640,0,1018,a1b2c3d
+Intercambio Directo,1000,Aleatorio,19,7.9790,499500,248958,0,1019,a1b2c3d
+Shellsort,1000,Aleatorio,19,0.0000,15581,8090,0,1019,a1b2c3d
+Intercambio Directo,1000,Aleatorio,20,6.9810,499500,247423,0,1020,a1b2c3d
+Shellsort,1000,Aleatorio,20,0.0000,15231,7743,0,1020,a1b2c3d
+Intercambio Directo,1000,Aleatorio,21,5.9840,499500,257488,0,1021,a1b2c3d
+Shellsort,1000,Aleatorio,21,0.9970,15188,7712,0,1021,a1b2c3d
+Intercambio Directo,1000,Aleatorio,22,5.9840,499500,246993,0,1022,a1b2c3d
+Shellsort,1000,Aleatorio,22,0.0000,15732,8243,0,1022,a1b2c3d
+Intercambio Directo,1000,Aleatorio,23,6.9820,499500,251738,0,1023,a1b2c3d
+Shellsort,1000,Aleatorio,23,0.0000,14721,7232,0,1023,a1b2c3d
+Intercambio Directo,1000,Aleatorio,24,5.9840,499500,251170,0,1024,a1b2c3d
+Shellsort,1000,Aleatorio,24,0.0000,14859,7346,0,1024,a1b2c3d
+Intercambio Directo,1000,Aleatorio,25,6.9810,499500,249713,0,1025,a1b2c3d
+Shellsort,1000,Aleatorio,25,0.0000,15382,7894,0,1025,a1b2c3d
+Intercambio Directo,1000,Aleatorio,26,5.9840,499500,249049,0,1026,a1b2c3d
+Shellsort,1000,Aleatorio,26,0.9970,15859,8362,0,1026,a1b2c3d
+Intercambio Directo,1000,Aleatorio,27,6.0760,499500,258373,0,1027,a1b2c3d
+Shellsort,1000,Aleatorio,27,0.9980,15361,7913,0,1027,a1b2c3d
+Intercambio Directo,1000,Aleatorio,28,6.0340,499500,244027,0,1028,a1b2c3d
+Shellsort,1000,Aleatorio,28,0.9460,16070,8561,0,1028,a1b2c3d
+Intercambio Directo,1000,Aleatorio,29,5.9840,499500,250552,0,1029,a1b2c3d
+Shellsort,1000,Aleatorio,29,1.0520,14604,7135,0,1029,a1b2c3d
+Intercambio Directo,1000,Aleatorio,30,5.9300,499500,244816,0,1030,a1b2c3d
+Shellsort,1000,Aleatorio,30,0.0000,14859,7343,0,1030,a1b2c3d
+Intercambio Directo,1000,Ascendente,1,2.9920,499500,0,0,1001,a1b2c3d
+Shellsort,1000,Ascendente,1,0.0000,8006,0,0,1001,a1b2c3d
+Intercambio Directo,1000,Ascendente,2,3.0450,499500,0,0,1002,a1b2c3d
+Shellsort,1000,Ascendente,2,0.0000,8006,0,0,1002,a1b2c3d
+Intercambio Directo,1000,Ascendente,3,2.9380,499500,0,0,1003,a1b2c3d
+Shellsort,1000,Ascendente,3,0.0000,8006,0,0,1003,a1b2c3d
+Intercambio Directo,1000,Ascendente,4,2.9930,499500,0,0,1004,a1b2c3d
+Shellsort,1000,Ascendente,4,0.0000,8006,0,0,1004,a1b2c3d
+Intercambio Directo,1000,Ascendente,5,1.9940,499500,0,0,1005,a1b2c3d
+Shellsort,1000,Ascendente,5,0.9980,8006,0,0,1005,a1b2c3d
+Intercambio Directo,1000,Ascendente,6,1.9940,499500,0,0,1006,a1b2c3d
+Shellsort,1000,Ascendente,6,0.0000,8006,0,0,1006,a1b2c3d
+Intercambio Directo,1000,Ascendente,7,2.9920,499500,0,0,1007,a1b2c3d
+Shellsort,1000,Ascendente,7,0.0000,8006,0,0,1007,a1b2c3d
+Intercambio Directo,1000,Ascendente,8,2.9920,499500,0,0,1008,a1b2c3d
+Shellsort,1000,Ascendente,8,0.0000,8006,0,0,1008,a1b2c3d
+Intercambio Directo,1000,Ascendente,9,3.0450,499500,0,0,1009,a1b2c3d
+Shellsort,1000,Ascendente,9,0.0000,8006,0,0,1009,a1b2c3d
+Intercambio Directo,1000,Ascendente,10,2.9390,499500,0,0,1010,a1b2c3d
+Shellsort,1000,Ascendente,10,0.0000,8006,0,0,1010,a1b2c3d
+Intercambio Directo,1000,Ascendente,11,2.9920,499500,0,0,1011,a1b2c3d
+Shellsort,1000,Ascendente,11,0.0000,8006,0,0,1011,a1b2c3d
+Intercambio Directo,1000,Ascendente,12,1.9950,499500,0,0,1012,a1b2c3d
+Shellsort,1000,Ascendente,12,0.0000,8006,0,0,1012,a1b2c3d
+Intercambio Directo,1000,Ascendente,13,2.9920,499500,0,0,1013,a1b2c3d
+Shellsort,1000,Ascendente,13,0.0000,8006,0,0,1013,a1b2c3d
+Intercambio Directo,1000,Ascendente,14,2.9920,499500,0,0,1014,a1b2c3d
+Shellsort,1000,Ascendente,14,0.0000,8006,0,0,1014,a1b2c3d
+Intercambio Directo,1000,Ascendente,15,2.9920,499500,0,0,1015,a1b2c3d
+Shellsort,1000,Ascendente,15,0.0000,8006,0,0,1015,a1b2c3d
+Intercambio Directo,1000,Ascendente,16,2.9920,499500,0,0,1016,a1b2c3d
+Shellsort,1000,Ascendente,16,0.0000,8006,0,0,1016,a1b2c3d
+Intercambio Directo,1000,Ascendente,17,2.9920,499500,0,0,1017,a1b2c3d
+Shellsort,1000,Ascendente,17,0.0000,8006,0,0,1017,a1b2c3d
+Intercambio Directo,1000,Ascendente,18,1.9950,499500,0,0,1018,a1b2c3d
+Shellsort,1000,Ascendente,18,0.0000,8006,0,0,1018,a1b2c3d
+Intercambio Directo,1000,Ascendente,19,2.9920,499500,0,0,1019,a1b2c3d
+Shellsort,1000,Ascendente,19,0.0000,8006,0,0,1019,a1b2c3d
+Intercambio Directo,1000,Ascendente,20,2.9920,499500,0,0,1020,a1b2c3d
+Shellsort,1000,Ascendente,20,0.0000,8006,0,0,1020,a1b2c3d
+Intercambio Directo,1000,Ascendente,21,2.9920,499500,0,0,1021,a1b2c3d
+Shellsort,1000,Ascendente,21,0.0000,8006,0,0,1021,a1b2c3d
+Intercambio Directo,1000,Ascendente,22,2.9920,499500,0,0,1022,a1b2c3d
+Shellsort,1000,Ascendente,22,0.0000,8006,0,0,1022,a1b2c3d
+Intercambio Directo,1000,Ascendente,23,1.9940,499500,0,0,1023,a1b2c3d
+Shellsort,1000,Ascendente,23,0.9980,8006,0,0,1023,a1b2c3d
+Intercambio Directo,1000,Ascendente,24,1.9940,499500,0,0,1024,a1b2c3d
+Shellsort,1000,Ascendente,24,0.0000,8006,0,0,1024,a1b2c3d
+Intercambio Directo,1000,Ascendente,25,2.9920,499500,0,0,1025,a1b2c3d
+Shellsort,1000,Ascendente,25,0.0000,8006,0,0,1025,a1b2c3d
+Intercambio Directo,1000,Ascendente,26,2.9920,499500,0,0,1026,a1b2c3d
+Shellsort,1000,Ascendente,26,0.0000,8006,0,0,1026,a1b2c3d
+Intercambio Directo,1000,Ascendente,27,2.9920,499500,0,0,1027,a1b2c3d
+Shellsort,1000,Ascendente,27,0.0000,8006,0,0,1027,a1b2c3d
+Intercambio Directo,1000,Ascendente,28,2.9920,499500,0,0,1028,a1b2c3d
+Shellsort,1000,Ascendente,28,0.0000,8006,0,0,1028,a1b2c3d
+Intercambio Directo,1000,Ascendente,29,1.9950,499500,0,0,1029,a1b2c3d
+Shellsort,1000,Ascendente,29,0.0000,8006,0,0,1029,a1b2c3d
+Intercambio Directo,1000,Ascendente,30,2.9920,499500,0,0,1030,a1b2c3d
+Shellsort,1000,Ascendente,30,0.0000,8006,0,0,1030,a1b2c3d
+Intercambio Directo,1000,Descendente,1,7.9790,499500,499500,0,1001,a1b2c3d
+Shellsort,1000,Descendente,1,0.0000,11716,4700,0,1001,a1b2c3d
+Intercambio Directo,1000,Descendente,2,6.9810,499500,499500,0,1002,a1b2c3d
+Shellsort,1000,Descendente,2,0.9970,11716,4700,0,1002,a1b2c3d
+Intercambio Directo,1000,Descendente,3,6.9820,499500,499500,0,1003,a1b2c3d
+Shellsort,1000,Descendente,3,0.0000,11716,4700,0,1003,a1b2c3d
+Intercambio Directo,1000,Descendente,4,7.9780,499500,499500,0,1004,a1b2c3d
+Shellsort,1000,Descendente,4,0.0000,11716,4700,0,1004,a1b2c3d
+Intercambio Directo,1000,Descendente,5,6.9820,499500,499500,0,1005,a1b2c3d
+Shellsort,1000,Descendente,5,0.0000,11716,4700,0,1005,a1b2c3d
+Intercambio Directo,1000,Descendente,6,7.9780,499500,499500,0,1006,a1b2c3d
+Shellsort,1000,Descendente,6,0.0000,11716,4700,0,1006,a1b2c3d
+Intercambio Directo,1000,Descendente,7,7.9790,499500,499500,0,1007,a1b2c3d
+Shellsort,1000,Descendente,7,0.0000,11716,4700,0,1007,a1b2c3d
+Intercambio Directo,1000,Descendente,8,6.9810,499500,499500,0,1008,a1b2c3d
+Shellsort,1000,Descendente,8,0.0000,11716,4700,0,1008,a1b2c3d
+Intercambio Directo,1000,Descendente,9,7.9790,499500,499500,0,1009,a1b2c3d
+Shellsort,1000,Descendente,9,0.0000,11716,4700,0,1009,a1b2c3d
+Intercambio Directo,1000,Descendente,10,7.9160,499500,499500,0,1010,a1b2c3d
+Shellsort,1000,Descendente,10,0.0000,11716,4700,0,1010,a1b2c3d
+Intercambio Directo,1000,Descendente,11,6.9810,499500,499500,0,1011,a1b2c3d
+Shellsort,1000,Descendente,11,0.0000,11716,4700,0,1011,a1b2c3d
+Intercambio Directo,1000,Descendente,12,7.9790,499500,499500,0,1012,a1b2c3d
+Shellsort,1000,Descendente,12,0.0000,11716,4700,0,1012,a1b2c3d
+Intercambio Directo,1000,Descendente,13,7.9790,499500,499500,0,1013,a1b2c3d
+Shellsort,1000,Descendente,13,0.0000,11716,4700,0,1013,a1b2c3d
+Intercambio Directo,1000,Descendente,14,6.9810,499500,499500,0,1014,a1b2c3d
+Shellsort,1000,Descendente,14,0.0000,11716,4700,0,1014,a1b2c3d
+Intercambio Directo,1000,Descendente,15,8.9760,499500,499500,0,1015,a1b2c3d
+Shellsort,1000,Descendente,15,0.0000,11716,4700,0,1015,a1b2c3d
+Intercambio Directo,1000,Descendente,16,7.9790,499500,499500,0,1016,a1b2c3d
+Shellsort,1000,Descendente,16,0.0000,11716,4700,0,1016,a1b2c3d
+Intercambio Directo,1000,Descendente,17,7.9780,499500,499500,0,1017,a1b2c3d
+Shellsort,1000,Descendente,17,0.0000,11716,4700,0,1017,a1b2c3d
+Intercambio Directo,1000,Descendente,18,7.9790,499500,499500,0,1018,a1b2c3d
+Shellsort,1000,Descendente,18,0.0000,11716,4700,0,1018,a1b2c3d
+Intercambio Directo,1000,Descendente,19,7.9790,499500,499500,0,1019,a1b2c3d
+Shellsort,1000,Descendente,19,0.0000,11716,4700,0,1019,a1b2c3d
+Intercambio Directo,1000,Descendente,20,7.9780,499500,499500,0,1020,a1b2c3d
+Shellsort,1000,Descendente,20,0.0000,11716,4700,0,1020,a1b2c3d
+Intercambio Directo,1000,Descendente,21,7.9790,499500,499500,0,1021,a1b2c3d
+Shellsort,1000,Descendente,21,0.0000,11716,4700,0,1021,a1b2c3d
+Intercambio Directo,1000,Descendente,22,7.9790,499500,499500,0,1022,a1b2c3d
+Shellsort,1000,Descendente,22,0.0000,11716,4700,0,1022,a1b2c3d
+Intercambio Directo,1000,Descendente,23,7.9780,499500,499500,0,1023,a1b2c3d
+Shellsort,1000,Descendente,23,0.0000,11716,4700,0,1023,a1b2c3d
+Intercambio Directo,1000,Descendente,24,6.9810,499500,499500,0,1024,a1b2c3d
+Shellsort,1000,Descendente,24,0.0000,11716,4700,0,1024,a1b2c3d
+Intercambio Directo,1000,Descendente,25,7.9790,499500,499500,0,1025,a1b2c3d
+Shellsort,1000,Descendente,25,0.0000,11716,4700,0,1025,a1b2c3d
+Intercambio Directo,1000,Descendente,26,7.9790,499500,499500,0,1026,a1b2c3d
+Shellsort,1000,Descendente,26,0.0000,11716,4700,0,1026,a1b2c3d
+Intercambio Directo,1000,Descendente,27,6.9810,499500,499500,0,1027,a1b2c3d
+Shellsort,1000,Descendente,27,0.9970,11716,4700,0,1027,a1b2c3d
+Intercambio Directo,1000,Descendente,28,6.9820,499500,499500,0,1028,a1b2c3d
+Shellsort,1000,Descendente,28,0.0000,11716,4700,0,1028,a1b2c3d
+Intercambio Directo,1000,Descendente,29,7.9780,499500,499500,0,1029,a1b2c3d
+Shellsort,1000,Descendente,29,0.0000,11716,4700,0,1029,a1b2c3d
+Intercambio Directo,1000,Descendente,30,6.9820,499500,499500,0,1030,a1b2c3d
+Shellsort,1000,Descendente,30,0.0000,11716,4700,0,1030,a1b2c3d
+Intercambio Directo,5000,Aleatorio,1,169.6250,12497500,6147446,0,1001,a1b2c3d
+Shellsort,5000,Aleatorio,1,0.9980,114770,62286,0,1001,a1b2c3d
+Intercambio Directo,5000,Aleatorio,2,171.4980,12497500,6227637,0,1002,a1b2c3d
+Shellsort,5000,Aleatorio,2,0.9980,114153,61705,0,1002,a1b2c3d
+Intercambio Directo,5000,Aleatorio,3,176.7890,12497500,6252247,0,1003,a1b2c3d
+Shellsort,5000,Aleatorio,3,1.9950,124002,71522,0,1003,a1b2c3d
+Intercambio Directo,5000,Aleatorio,4,172.5380,12497500,6221956,0,1004,a1b2c3d
+Shellsort,5000,Aleatorio,4,1.9950,114945,62513,0,1004,a1b2c3d
+Intercambio Directo,5000,Aleatorio,5,169.5460,12497500,6199757,0,1005,a1b2c3d
+Shellsort,5000,Aleatorio,5,1.9950,110586,58118,0,1005,a1b2c3d
+Intercambio Directo,5000,Aleatorio,6,170.5620,12497500,6125948,0,1006,a1b2c3d
+Shellsort,5000,Aleatorio,6,0.9980,118374,65848,0,1006,a1b2c3d
+Intercambio Directo,5000,Aleatorio,7,173.7200,12497500,6214265,0,1007,a1b2c3d
+Shellsort,5000,Aleatorio,7,1.9950,119546,67104,0,1007,a1b2c3d
+Intercambio Directo,5000,Aleatorio,8,175.0350,12497500,6205881,0,1008,a1b2c3d
+Shellsort,5000,Aleatorio,8,1.1990,115181,62688,0,1008,a1b2c3d
+Intercambio Directo,5000,Aleatorio,9,172.5950,12497500,6184745,0,1009,a1b2c3d
+Shellsort,5000,Aleatorio,9,1.9950,114914,62448,0,1009,a1b2c3d
+Intercambio Directo,5000,Aleatorio,10,218.8850,12497500,6146749,0,1010,a1b2c3d
+Shellsort,5000,Aleatorio,10,1.9980,116074,63617,0,1010,a1b2c3d
+Intercambio Directo,5000,Aleatorio,11,168.4240,12497500,6260126,0,1011,a1b2c3d
+Shellsort,5000,Aleatorio,11,1.9920,114442,61994,0,1011,a1b2c3d
+Intercambio Directo,5000,Aleatorio,12,169.8720,12497500,6310228,0,1012,a1b2c3d
+Shellsort,5000,Aleatorio,12,1.9530,116447,64026,0,1012,a1b2c3d
+Intercambio Directo,5000,Aleatorio,13,194.4610,12497500,6301955,0,1013,a1b2c3d
+Shellsort,5000,Aleatorio,13,1.9950,111392,58986,0,1013,a1b2c3d
+Intercambio Directo,5000,Aleatorio,14,184.0610,12497500,6293977,0,1014,a1b2c3d
+Shellsort,5000,Aleatorio,14,0.9970,111343,58952,0,1014,a1b2c3d
+Intercambio Directo,5000,Aleatorio,15,186.9180,12497500,6271443,0,1015,a1b2c3d
+Shellsort,5000,Aleatorio,15,1.9950,114187,61743,0,1015,a1b2c3d
+Intercambio Directo,5000,Aleatorio,16,186.0790,12497500,6238961,0,1016,a1b2c3d
+Shellsort,5000,Aleatorio,16,1.9940,112753,60321,0,1016,a1b2c3d
+Intercambio Directo,5000,Aleatorio,17,182.2700,12497500,6262652,0,1017,a1b2c3d
+Shellsort,5000,Aleatorio,17,2.3860,114466,61997,0,1017,a1b2c3d
+Intercambio Directo,5000,Aleatorio,18,181.5710,12497500,6254894,0,1018,a1b2c3d
+Shellsort,5000,Aleatorio,18,0.9990,115377,62982,0,1018,a1b2c3d
+Intercambio Directo,5000,Aleatorio,19,181.2280,12497500,6331785,0,1019,a1b2c3d
+Shellsort,5000,Aleatorio,19,0.9970,113722,61336,0,1019,a1b2c3d
+Intercambio Directo,5000,Aleatorio,20,184.3920,12497500,6376239,0,1020,a1b2c3d
+Shellsort,5000,Aleatorio,20,1.9950,113002,60621,0,1020,a1b2c3d
+Intercambio Directo,5000,Aleatorio,21,188.2380,12497500,6301681,0,1021,a1b2c3d
+Shellsort,5000,Aleatorio,21,1.2390,112732,60323,0,1021,a1b2c3d
+Intercambio Directo,5000,Aleatorio,22,182.6390,12497500,6270806,0,1022,a1b2c3d
+Shellsort,5000,Aleatorio,22,0.9990,112793,60389,0,1022,a1b2c3d
+Intercambio Directo,5000,Aleatorio,23,176.8020,12497500,6274329,0,1023,a1b2c3d
+Shellsort,5000,Aleatorio,23,1.8840,117710,65279,0,1023,a1b2c3d
+Intercambio Directo,5000,Aleatorio,24,178.2740,12497500,6359307,0,1024,a1b2c3d
+Shellsort,5000,Aleatorio,24,1.9950,121706,69292,0,1024,a1b2c3d
+Intercambio Directo,5000,Aleatorio,25,179.7940,12497500,6310131,0,1025,a1b2c3d
+Shellsort,5000,Aleatorio,25,0.9980,113129,60728,0,1025,a1b2c3d
+Intercambio Directo,5000,Aleatorio,26,196.5470,12497500,6198884,0,1026,a1b2c3d
+Shellsort,5000,Aleatorio,26,1.9890,115797,63346,0,1026,a1b2c3d
+Intercambio Directo,5000,Aleatorio,27,187.4620,12497500,6259523,0,1027,a1b2c3d
+Shellsort,5000,Aleatorio,27,0.9980,116156,63685,0,1027,a1b2c3d
+Intercambio Directo,5000,Aleatorio,28,167.6580,12497500,6253073,0,1028,a1b2c3d
+Shellsort,5000,Aleatorio,28,2.0300,119053,66607,0,1028,a1b2c3d
+Intercambio Directo,5000,Aleatorio,29,209.3570,12497500,6268440,0,1029,a1b2c3d
+Shellsort,5000,Aleatorio,29,1.9950,113197,60791,0,1029,a1b2c3d
+Intercambio Directo,5000,Aleatorio,30,222.4040,12497500,6310195,0,1030,a1b2c3d
+Shellsort,5000,Aleatorio,30,1.9950,113099,60678,0,1030,a1b2c3d
+Intercambio Directo,5000,Ascendente,1,67.8180,12497500,0,0,1001,a1b2c3d
+Shellsort,5000,Ascendente,1,0.9980,55005,0,0,1001,a1b2c3d
+Intercambio Directo,5000,Ascendente,2,68.8160,12497500,0,0,1002,a1b2c3d
+Shellsort,5000,Ascendente,2,0.0000,55005,0,0,1002,a1b2c3d
+Intercambio Directo,5000,Ascendente,3,72.3810,12497500,0,0,1003,a1b2c3d
+Shellsort,5000,Ascendente,3,0.9980,55005,0,0,1003,a1b2c3d
+Intercambio Directo,5000,Ascendente,4,69.8120,12497500,0,0,1004,a1b2c3d
+Shellsort,5000,Ascendente,4,0.9980,55005,0,0,1004,a1b2c3d
+Intercambio Directo,5000,Ascendente,5,68.1170,12497500,0,0,1005,a1b2c3d
+Shellsort,5000,Ascendente,5,0.9970,55005,0,0,1005,a1b2c3d
+Intercambio Directo,5000,Ascendente,6,67.8190,12497500,0,0,1006,a1b2c3d
+Shellsort,5000,Ascendente,6,0.9980,55005,0,0,1006,a1b2c3d
+Intercambio Directo,5000,Ascendente,7,67.8180,12497500,0,0,1007,a1b2c3d
+Shellsort,5000,Ascendente,7,0.9970,55005,0,0,1007,a1b2c3d
+Intercambio Directo,5000,Ascendente,8,67.8180,12497500,0,0,1008,a1b2c3d
+Shellsort,5000,Ascendente,8,0.0550,55005,0,0,1008,a1b2c3d
+Intercambio Directo,5000,Ascendente,9,68.7610,12497500,0,0,1009,a1b2c3d
+Shellsort,5000,Ascendente,9,0.0000,55005,0,0,1009,a1b2c3d
+Intercambio Directo,5000,Ascendente,10,68.8160,12497500,0,0,1010,a1b2c3d
+Shellsort,5000,Ascendente,10,0.0000,55005,0,0,1010,a1b2c3d
+Intercambio Directo,5000,Ascendente,11,68.8160,12497500,0,0,1011,a1b2c3d
+Shellsort,5000,Ascendente,11,0.0000,55005,0,0,1011,a1b2c3d
+Intercambio Directo,5000,Ascendente,12,68.8160,12497500,0,0,1012,a1b2c3d
+Shellsort,5000,Ascendente,12,0.0000,55005,0,0,1012,a1b2c3d
+Intercambio Directo,5000,Ascendente,13,69.8140,12497500,0,0,1013,a1b2c3d
+Shellsort,5000,Ascendente,13,0.0000,55005,0,0,1013,a1b2c3d
+Intercambio Directo,5000,Ascendente,14,68.8150,12497500,0,0,1014,a1b2c3d
+Shellsort,5000,Ascendente,14,0.0000,55005,0,0,1014,a1b2c3d
+Intercambio Directo,5000,Ascendente,15,68.8160,12497500,0,0,1015,a1b2c3d
+Shellsort,5000,Ascendente,15,0.0000,55005,0,0,1015,a1b2c3d
+Intercambio Directo,5000,Ascendente,16,68.8160,12497500,0,0,1016,a1b2c3d
+Shellsort,5000,Ascendente,16,0.0000,55005,0,0,1016,a1b2c3d
+Intercambio Directo,5000,Ascendente,17,68.8160,12497500,0,0,1017,a1b2c3d
+Shellsort,5000,Ascendente,17,0.9980,55005,0,0,1017,a1b2c3d
+Intercambio Directo,5000,Ascendente,18,69.7730,12497500,0,0,1018,a1b2c3d
+Shellsort,5000,Ascendente,18,0.9980,55005,0,0,1018,a1b2c3d
+Intercambio Directo,5000,Ascendente,19,69.8130,12497500,0,0,1019,a1b2c3d
+Shellsort,5000,Ascendente,19,0.0000,55005,0,0,1019,a1b2c3d
+Intercambio Directo,5000,Ascendente,20,68.8150,12497500,0,0,1020,a1b2c3d
+Shellsort,5000,Ascendente,20,0.0000,55005,0,0,1020,a1b2c3d
+Intercambio Directo,5000,Ascendente,21,67.8750,12497500,0,0,1021,a1b2c3d
+Shellsort,5000,Ascendente,21,0.0000,55005,0,0,1021,a1b2c3d
+Intercambio Directo,5000,Ascendente,22,67.9070,12497500,0,0,1022,a1b2c3d
+Shellsort,5000,Ascendente,22,0.0000,55005,0,0,1022,a1b2c3d
+Intercambio Directo,5000,Ascendente,23,68.8160,12497500,0,0,1023,a1b2c3d
+Shellsort,5000,Ascendente,23,0.0000,55005,0,0,1023,a1b2c3d
+Intercambio Directo,5000,Ascendente,24,71.8070,12497500,0,0,1024,a1b2c3d
+Shellsort,5000,Ascendente,24,0.0000,55005,0,0,1024,a1b2c3d
+Intercambio Directo,5000,Ascendente,25,68.1640,12497500,0,0,1025,a1b2c3d
+Shellsort,5000,Ascendente,25,0.9980,55005,0,0,1025,a1b2c3d
+Intercambio Directo,5000,Ascendente,26,68.8050,12497500,0,0,1026,a1b2c3d
+Shellsort,5000,Ascendente,26,0.0000,55005,0,0,1026,a1b2c3d
+Intercambio Directo,5000,Ascendente,27,68.8160,12497500,0,0,1027,a1b2c3d
+Shellsort,5000,Ascendente,27,0.0000,55005,0,0,1027,a1b2c3d
+Intercambio Directo,5000,Ascendente,28,68.8160,12497500,0,0,1028,a1b2c3d
+Shellsort,5000,Ascendente,28,0.0000,55005,0,0,1028,a1b2c3d
+Intercambio Directo,5000,Ascendente,29,68.8160,12497500,0,0,1029,a1b2c3d
+Shellsort,5000,Ascendente,29,0.0000,55005,0,0,1029,a1b2c3d
+Intercambio Directo,5000,Ascendente,30,68.8160,12497500,0,0,1030,a1b2c3d
+Shellsort,5000,Ascendente,30,0.0000,55005,0,0,1030,a1b2c3d
+Intercambio Directo,5000,Descendente,1,192.8430,12497500,12497500,0,1001,a1b2c3d
+Shellsort,5000,Descendente,1,0.0000,78798,28780,0,1001,a1b2c3d
+Intercambio Directo,5000,Descendente,2,211.4880,12497500,12497500,0,1002,a1b2c3d
+Shellsort,5000,Descendente,2,0.9970,78798,28780,0,1002,a1b2c3d
+Intercambio Directo,5000,Descendente,3,188.4960,12497500,12497500,0,1003,a1b2c3d
+Shellsort,5000,Descendente,3,0.9970,78798,28780,0,1003,a1b2c3d
+Intercambio Directo,5000,Descendente,4,187.4620,12497500,12497500,0,1004,a1b2c3d
+Shellsort,5000,Descendente,4,0.9980,78798,28780,0,1004,a1b2c3d
+Intercambio Directo,5000,Descendente,5,188.4950,12497500,12497500,0,1005,a1b2c3d
+Shellsort,5000,Descendente,5,1.2120,78798,28780,0,1005,a1b2c3d
+Intercambio Directo,5000,Descendente,6,188.3250,12497500,12497500,0,1006,a1b2c3d
+Shellsort,5000,Descendente,6,0.9980,78798,28780,0,1006,a1b2c3d
+Intercambio Directo,5000,Descendente,7,198.7400,12497500,12497500,0,1007,a1b2c3d
+Shellsort,5000,Descendente,7,0.9980,78798,28780,0,1007,a1b2c3d
+Intercambio Directo,5000,Descendente,8,188.4950,12497500,12497500,0,1008,a1b2c3d
+Shellsort,5000,Descendente,8,0.9980,78798,28780,0,1008,a1b2c3d
+Intercambio Directo,5000,Descendente,9,188.4950,12497500,12497500,0,1009,a1b2c3d
+Shellsort,5000,Descendente,9,0.0000,78798,28780,0,1009,a1b2c3d
+Intercambio Directo,5000,Descendente,10,187.4990,12497500,12497500,0,1010,a1b2c3d
+Shellsort,5000,Descendente,10,0.0000,78798,28780,0,1010,a1b2c3d
+Intercambio Directo,5000,Descendente,11,187.4980,12497500,12497500,0,1011,a1b2c3d
+Shellsort,5000,Descendente,11,0.9980,78798,28780,0,1011,a1b2c3d
+Intercambio Directo,5000,Descendente,12,191.6380,12497500,12497500,0,1012,a1b2c3d
+Shellsort,5000,Descendente,12,0.9980,78798,28780,0,1012,a1b2c3d
+Intercambio Directo,5000,Descendente,13,187.8220,12497500,12497500,0,1013,a1b2c3d
+Shellsort,5000,Descendente,13,0.0000,78798,28780,0,1013,a1b2c3d
+Intercambio Directo,5000,Descendente,14,243.1330,12497500,12497500,0,1014,a1b2c3d
+Shellsort,5000,Descendente,14,0.9970,78798,28780,0,1014,a1b2c3d
+Intercambio Directo,5000,Descendente,15,200.9310,12497500,12497500,0,1015,a1b2c3d
+Shellsort,5000,Descendente,15,0.9980,78798,28780,0,1015,a1b2c3d
+Intercambio Directo,5000,Descendente,16,268.3320,12497500,12497500,0,1016,a1b2c3d
+Shellsort,5000,Descendente,16,0.9860,78798,28780,0,1016,a1b2c3d
+Intercambio Directo,5000,Descendente,17,213.9920,12497500,12497500,0,1017,a1b2c3d
+Shellsort,5000,Descendente,17,0.0000,78798,28780,0,1017,a1b2c3d
+Intercambio Directo,5000,Descendente,18,190.1300,12497500,12497500,0,1018,a1b2c3d
+Shellsort,5000,Descendente,18,0.9980,78798,28780,0,1018,a1b2c3d
+Intercambio Directo,5000,Descendente,19,189.0100,12497500,12497500,0,1019,a1b2c3d
+Shellsort,5000,Descendente,19,0.0000,78798,28780,0,1019,a1b2c3d
+Intercambio Directo,5000,Descendente,20,259.9500,12497500,12497500,0,1020,a1b2c3d
+Shellsort,5000,Descendente,20,2.0160,78798,28780,0,1020,a1b2c3d
+Intercambio Directo,5000,Descendente,21,264.1440,12497500,12497500,0,1021,a1b2c3d
+Shellsort,5000,Descendente,21,0.9990,78798,28780,0,1021,a1b2c3d
+Intercambio Directo,5000,Descendente,22,232.8290,12497500,12497500,0,1022,a1b2c3d
+Shellsort,5000,Descendente,22,0.9980,78798,28780,0,1022,a1b2c3d
+Intercambio Directo,5000,Descendente,23,192.5730,12497500,12497500,0,1023,a1b2c3d
+Shellsort,5000,Descendente,23,0.7540,78798,28780,0,1023,a1b2c3d
+Intercambio Directo,5000,Descendente,24,188.4160,12497500,12497500,0,1024,a1b2c3d
+Shellsort,5000,Descendente,24,0.6400,78798,28780,0,1024,a1b2c3d
+Intercambio Directo,5000,Descendente,25,187.3320,12497500,12497500,0,1025,a1b2c3d
+Shellsort,5000,Descendente,25,0.9980,78798,28780,0,1025,a1b2c3d
+Intercambio Directo,5000,Descendente,26,188.3130,12497500,12497500,0,1026,a1b2c3d
+Shellsort,5000,Descendente,26,1.0620,78798,28780,0,1026,a1b2c3d
+Intercambio Directo,5000,Descendente,27,192.3880,12497500,12497500,0,1027,a1b2c3d
+Shellsort,5000,Descendente,27,0.9980,78798,28780,0,1027,a1b2c3d
+Intercambio Directo,5000,Descendente,28,187.9970,12497500,12497500,0,1028,a1b2c3d
+Shellsort,5000,Descendente,28,0.9990,78798,28780,0,1028,a1b2c3d
+Intercambio Directo,5000,Descendente,29,188.6670,12497500,12497500,0,1029,a1b2c3d
+Shellsort,5000,Descendente,29,0.0000,78798,28780,0,1029,a1b2c3d
+Intercambio Directo,5000,Descendente,30,197.5260,12497500,12497500,0,1030,a1b2c3d
+Shellsort,5000,Descendente,30,0.9430,78798,28780,0,1030,a1b2c3d
+Intercambio Directo,10000,Aleatorio,1,700.6840,49995000,24722920,0,1001,a1b2c3d
+Shellsort,10000,Aleatorio,1,3.0460,264195,149169,0,1001,a1b2c3d
+Intercambio Directo,10000,Aleatorio,2,757.8700,49995000,24905429,0,1002,a1b2c3d
+Shellsort,10000,Aleatorio,2,5.2280,261315,146390,0,1002,a1b2c3d
+Intercambio Directo,10000,Aleatorio,3,1521.2020,49995000,25185921,0,1003,a1b2c3d
+Shellsort,10000,Aleatorio,3,4.9890,279477,164594,0,1003,a1b2c3d
+Intercambio Directo,10000,Aleatorio,4,1537.8230,49995000,25072431,0,1004,a1b2c3d
+Shellsort,10000,Aleatorio,4,4.0040,261600,146702,0,1004,a1b2c3d
+Intercambio Directo,10000,Aleatorio,5,1351.2770,49995000,24960294,0,1005,a1b2c3d
+Shellsort,10000,Aleatorio,5,10.0480,256501,141526,0,1005,a1b2c3d
+Intercambio Directo,10000,Aleatorio,6,1399.8100,49995000,24745932,0,1006,a1b2c3d
+Shellsort,10000,Aleatorio,6,2.9920,276215,161235,0,1006,a1b2c3d
+Intercambio Directo,10000,Aleatorio,7,972.2330,49995000,25010306,0,1007,a1b2c3d
+Shellsort,10000,Aleatorio,7,3.9880,280691,165742,0,1007,a1b2c3d
+Intercambio Directo,10000,Aleatorio,8,1643.0540,49995000,25238919,0,1008,a1b2c3d
+Shellsort,10000,Aleatorio,8,11.9720,265394,150537,0,1008,a1b2c3d
+Intercambio Directo,10000,Aleatorio,9,1703.8240,49995000,24761484,0,1009,a1b2c3d
+Shellsort,10000,Aleatorio,9,7.6230,260867,145877,0,1009,a1b2c3d
+Intercambio Directo,10000,Aleatorio,10,1825.0180,49995000,24716118,0,1010,a1b2c3d
+Shellsort,10000,Aleatorio,10,12.9680,264769,149799,0,1010,a1b2c3d
+Intercambio Directo,10000,Aleatorio,11,1905.4110,49995000,24984983,0,1011,a1b2c3d
+Shellsort,10000,Aleatorio,11,9.0690,274665,159671,0,1011,a1b2c3d
+Intercambio Directo,10000,Aleatorio,12,1682.5690,49995000,25102941,0,1012,a1b2c3d
+Shellsort,10000,Aleatorio,12,8.0420,271707,156815,0,1012,a1b2c3d
+Intercambio Directo,10000,Aleatorio,13,1750.1640,49995000,25102115,0,1013,a1b2c3d
+Shellsort,10000,Aleatorio,13,7.9810,260077,145185,0,1013,a1b2c3d
+Intercambio Directo,10000,Aleatorio,14,1721.7660,49995000,25244026,0,1014,a1b2c3d
+Shellsort,10000,Aleatorio,14,2.9910,263312,148410,0,1014,a1b2c3d
+Intercambio Directo,10000,Aleatorio,15,853.0620,49995000,25228751,0,1015,a1b2c3d
+Shellsort,10000,Aleatorio,15,3.9890,256912,142035,0,1015,a1b2c3d
+Intercambio Directo,10000,Aleatorio,16,897.3280,49995000,24885486,0,1016,a1b2c3d
+Shellsort,10000,Aleatorio,16,3.0780,261561,146566,0,1016,a1b2c3d
+Intercambio Directo,10000,Aleatorio,17,797.9050,49995000,25424799,0,1017,a1b2c3d
+Shellsort,10000,Aleatorio,17,2.9920,265433,150553,0,1017,a1b2c3d
+Intercambio Directo,10000,Aleatorio,18,903.2060,49995000,24793370,0,1018,a1b2c3d
+Shellsort,10000,Aleatorio,18,4.0510,260470,145479,0,1018,a1b2c3d
+Intercambio Directo,10000,Aleatorio,19,897.5140,49995000,25163100,0,1019,a1b2c3d
+Shellsort,10000,Aleatorio,19,3.9880,257719,142851,0,1019,a1b2c3d
+Intercambio Directo,10000,Aleatorio,20,830.3940,49995000,25139828,0,1020,a1b2c3d
+Shellsort,10000,Aleatorio,20,3.5640,258413,143536,0,1020,a1b2c3d
+Intercambio Directo,10000,Aleatorio,21,971.4440,49995000,24897440,0,1021,a1b2c3d
+Shellsort,10000,Aleatorio,21,4.9870,274312,159389,0,1021,a1b2c3d
+Intercambio Directo,10000,Aleatorio,22,802.2460,49995000,24789131,0,1022,a1b2c3d
+Shellsort,10000,Aleatorio,22,3.9420,258557,143624,0,1022,a1b2c3d
+Intercambio Directo,10000,Aleatorio,23,749.9650,49995000,25126409,0,1023,a1b2c3d
+Shellsort,10000,Aleatorio,23,5.8980,270307,155388,0,1023,a1b2c3d
+Intercambio Directo,10000,Aleatorio,24,939.5180,49995000,25039412,0,1024,a1b2c3d
+Shellsort,10000,Aleatorio,24,3.9950,259442,144512,0,1024,a1b2c3d
+Intercambio Directo,10000,Aleatorio,25,1169.6080,49995000,24862532,0,1025,a1b2c3d
+Shellsort,10000,Aleatorio,25,4.9870,257490,142481,0,1025,a1b2c3d
+Intercambio Directo,10000,Aleatorio,26,1092.6000,49995000,25034035,0,1026,a1b2c3d
+Shellsort,10000,Aleatorio,26,5.0450,265593,150715,0,1026,a1b2c3d
+Intercambio Directo,10000,Aleatorio,27,1222.6010,49995000,24984533,0,1027,a1b2c3d
+Shellsort,10000,Aleatorio,27,5.0040,268682,153755,0,1027,a1b2c3d
+Intercambio Directo,10000,Aleatorio,28,1520.4450,49995000,24698149,0,1028,a1b2c3d
+Shellsort,10000,Aleatorio,28,4.9860,270656,155758,0,1028,a1b2c3d
+Intercambio Directo,10000,Aleatorio,29,1112.4190,49995000,25040877,0,1029,a1b2c3d
+Shellsort,10000,Aleatorio,29,4.9970,276078,161125,0,1029,a1b2c3d
+Intercambio Directo,10000,Aleatorio,30,850.2990,49995000,25050305,0,1030,a1b2c3d
+Shellsort,10000,Aleatorio,30,3.0300,259140,144196,0,1030,a1b2c3d
+Intercambio Directo,10000,Ascendente,1,333.9130,49995000,0,0,1001,a1b2c3d
+Shellsort,10000,Ascendente,1,0.9980,120005,0,0,1001,a1b2c3d
+Intercambio Directo,10000,Ascendente,2,327.9100,49995000,0,0,1002,a1b2c3d
+Shellsort,10000,Ascendente,2,0.8920,120005,0,0,1002,a1b2c3d
+Intercambio Directo,10000,Ascendente,3,292.8440,49995000,0,0,1003,a1b2c3d
+Shellsort,10000,Ascendente,3,1.0990,120005,0,0,1003,a1b2c3d
+Intercambio Directo,10000,Ascendente,4,321.6920,49995000,0,0,1004,a1b2c3d
+Shellsort,10000,Ascendente,4,2.0150,120005,0,0,1004,a1b2c3d
+Intercambio Directo,10000,Ascendente,5,306.4300,49995000,0,0,1005,a1b2c3d
+Shellsort,10000,Ascendente,5,0.9870,120005,0,0,1005,a1b2c3d
+Intercambio Directo,10000,Ascendente,6,335.1710,49995000,0,0,1006,a1b2c3d
+Shellsort,10000,Ascendente,6,0.9970,120005,0,0,1006,a1b2c3d
+Intercambio Directo,10000,Ascendente,7,424.2600,49995000,0,0,1007,a1b2c3d
+Shellsort,10000,Ascendente,7,1.0390,120005,0,0,1007,a1b2c3d
+Intercambio Directo,10000,Ascendente,8,329.7060,49995000,0,0,1008,a1b2c3d
+Shellsort,10000,Ascendente,8,1.0060,120005,0,0,1008,a1b2c3d
+Intercambio Directo,10000,Ascendente,9,383.3800,49995000,0,0,1009,a1b2c3d
+Shellsort,10000,Ascendente,9,1.9700,120005,0,0,1009,a1b2c3d
+Intercambio Directo,10000,Ascendente,10,375.2240,49995000,0,0,1010,a1b2c3d
+Shellsort,10000,Ascendente,10,1.9950,120005,0,0,1010,a1b2c3d
+Intercambio Directo,10000,Ascendente,11,369.6050,49995000,0,0,1011,a1b2c3d
+Shellsort,10000,Ascendente,11,1.0250,120005,0,0,1011,a1b2c3d
+Intercambio Directo,10000,Ascendente,12,318.9650,49995000,0,0,1012,a1b2c3d
+Shellsort,10000,Ascendente,12,0.9590,120005,0,0,1012,a1b2c3d
+Intercambio Directo,10000,Ascendente,13,370.0120,49995000,0,0,1013,a1b2c3d
+Shellsort,10000,Ascendente,13,1.3550,120005,0,0,1013,a1b2c3d
+Intercambio Directo,10000,Ascendente,14,348.5570,49995000,0,0,1014,a1b2c3d
+Shellsort,10000,Ascendente,14,0.9970,120005,0,0,1014,a1b2c3d
+Intercambio Directo,10000,Ascendente,15,337.0720,49995000,0,0,1015,a1b2c3d
+Shellsort,10000,Ascendente,15,1.9960,120005,0,0,1015,a1b2c3d
+Intercambio Directo,10000,Ascendente,16,317.6190,49995000,0,0,1016,a1b2c3d
+Shellsort,10000,Ascendente,16,0.9970,120005,0,0,1016,a1b2c3d
+Intercambio Directo,10000,Ascendente,17,296.2520,49995000,0,0,1017,a1b2c3d
+Shellsort,10000,Ascendente,17,0.9950,120005,0,0,1017,a1b2c3d
+Intercambio Directo,10000,Ascendente,18,301.6880,49995000,0,0,1018,a1b2c3d
+Shellsort,10000,Ascendente,18,1.0050,120005,0,0,1018,a1b2c3d
+Intercambio Directo,10000,Ascendente,19,317.7160,49995000,0,0,1019,a1b2c3d
+Shellsort,10000,Ascendente,19,1.9970,120005,0,0,1019,a1b2c3d
+Intercambio Directo,10000,Ascendente,20,365.9920,49995000,0,0,1020,a1b2c3d
+Shellsort,10000,Ascendente,20,0.9950,120005,0,0,1020,a1b2c3d
+Intercambio Directo,10000,Ascendente,21,349.0650,49995000,0,0,1021,a1b2c3d
+Shellsort,10000,Ascendente,21,2.0290,120005,0,0,1021,a1b2c3d
+Intercambio Directo,10000,Ascendente,22,346.0260,49995000,0,0,1022,a1b2c3d
+Shellsort,10000,Ascendente,22,0.9890,120005,0,0,1022,a1b2c3d
+Intercambio Directo,10000,Ascendente,23,361.6010,49995000,0,0,1023,a1b2c3d
+Shellsort,10000,Ascendente,23,1.9940,120005,0,0,1023,a1b2c3d
+Intercambio Directo,10000,Ascendente,24,320.0420,49995000,0,0,1024,a1b2c3d
+Shellsort,10000,Ascendente,24,1.0370,120005,0,0,1024,a1b2c3d
+Intercambio Directo,10000,Ascendente,25,348.9510,49995000,0,0,1025,a1b2c3d
+Shellsort,10000,Ascendente,25,3.3820,120005,0,0,1025,a1b2c3d
+Intercambio Directo,10000,Ascendente,26,470.5420,49995000,0,0,1026,a1b2c3d
+Shellsort,10000,Ascendente,26,0.9980,120005,0,0,1026,a1b2c3d
+Intercambio Directo,10000,Ascendente,27,693.6340,49995000,0,0,1027,a1b2c3d
+Shellsort,10000,Ascendente,27,2.7960,120005,0,0,1027,a1b2c3d
+Intercambio Directo,10000,Ascendente,28,552.1720,49995000,0,0,1028,a1b2c3d
+Shellsort,10000,Ascendente,28,3.9870,120005,0,0,1028,a1b2c3d
+Intercambio Directo,10000,Ascendente,29,493.7990,49995000,0,0,1029,a1b2c3d
+Shellsort,10000,Ascendente,29,1.4000,120005,0,0,1029,a1b2c3d
+Intercambio Directo,10000,Ascendente,30,430.8110,49995000,0,0,1030,a1b2c3d
+Shellsort,10000,Ascendente,30,1.9950,120005,0,0,1030,a1b2c3d
+Intercambio Directo,10000,Descendente,1,1655.9940,49995000,49995000,0,1001,a1b2c3d
+Shellsort,10000,Descendente,1,2.9830,172578,62560,0,1001,a1b2c3d
+Intercambio Directo,10000,Descendente,2,1831.7740,49995000,49995000,0,1002,a1b2c3d
+Shellsort,10000,Descendente,2,7.1940,172578,62560,0,1002,a1b2c3d
+Intercambio Directo,10000,Descendente,3,1531.0520,49995000,49995000,0,1003,a1b2c3d
+Shellsort,10000,Descendente,3,1.9940,172578,62560,0,1003,a1b2c3d
+Intercambio Directo,10000,Descendente,4,1255.0650,49995000,49995000,0,1004,a1b2c3d
+Shellsort,10000,Descendente,4,2.1440,172578,62560,0,1004,a1b2c3d
+Intercambio Directo,10000,Descendente,5,1267.4810,49995000,49995000,0,1005,a1b2c3d
+Shellsort,10000,Descendente,5,2.0000,172578,62560,0,1005,a1b2c3d
+Intercambio Directo,10000,Descendente,6,1455.9510,49995000,49995000,0,1006,a1b2c3d
+Shellsort,10000,Descendente,6,3.9900,172578,62560,0,1006,a1b2c3d
+Intercambio Directo,10000,Descendente,7,1271.8200,49995000,49995000,0,1007,a1b2c3d
+Shellsort,10000,Descendente,7,1.9910,172578,62560,0,1007,a1b2c3d
+Intercambio Directo,10000,Descendente,8,900.2620,49995000,49995000,0,1008,a1b2c3d
+Shellsort,10000,Descendente,8,1.9660,172578,62560,0,1008,a1b2c3d
+Intercambio Directo,10000,Descendente,9,1090.6440,49995000,49995000,0,1009,a1b2c3d
+Shellsort,10000,Descendente,9,1.9970,172578,62560,0,1009,a1b2c3d
+Intercambio Directo,10000,Descendente,10,1106.6250,49995000,49995000,0,1010,a1b2c3d
+Shellsort,10000,Descendente,10,1.9490,172578,62560,0,1010,a1b2c3d
+Intercambio Directo,10000,Descendente,11,988.9780,49995000,49995000,0,1011,a1b2c3d
+Shellsort,10000,Descendente,11,1.9940,172578,62560,0,1011,a1b2c3d
+Intercambio Directo,10000,Descendente,12,1008.2200,49995000,49995000,0,1012,a1b2c3d
+Shellsort,10000,Descendente,12,1.9940,172578,62560,0,1012,a1b2c3d
+Intercambio Directo,10000,Descendente,13,1165.8840,49995000,49995000,0,1013,a1b2c3d
+Shellsort,10000,Descendente,13,1.9950,172578,62560,0,1013,a1b2c3d
+Intercambio Directo,10000,Descendente,14,1169.7950,49995000,49995000,0,1014,a1b2c3d
+Shellsort,10000,Descendente,14,2.9920,172578,62560,0,1014,a1b2c3d
+Intercambio Directo,10000,Descendente,15,1120.5460,49995000,49995000,0,1015,a1b2c3d
+Shellsort,10000,Descendente,15,1.9980,172578,62560,0,1015,a1b2c3d
+Intercambio Directo,10000,Descendente,16,976.2740,49995000,49995000,0,1016,a1b2c3d
+Shellsort,10000,Descendente,16,1.9960,172578,62560,0,1016,a1b2c3d
+Intercambio Directo,10000,Descendente,17,1279.9970,49995000,49995000,0,1017,a1b2c3d
+Shellsort,10000,Descendente,17,3.0240,172578,62560,0,1017,a1b2c3d
+Intercambio Directo,10000,Descendente,18,1106.9300,49995000,49995000,0,1018,a1b2c3d
+Shellsort,10000,Descendente,18,1.9920,172578,62560,0,1018,a1b2c3d
+Intercambio Directo,10000,Descendente,19,1470.0350,49995000,49995000,0,1019,a1b2c3d
+Shellsort,10000,Descendente,19,1.9590,172578,62560,0,1019,a1b2c3d
+Intercambio Directo,10000,Descendente,20,1043.9970,49995000,49995000,0,1020,a1b2c3d
+Shellsort,10000,Descendente,20,1.9980,172578,62560,0,1020,a1b2c3d
+Intercambio Directo,10000,Descendente,21,1423.0070,49995000,49995000,0,1021,a1b2c3d
+Shellsort,10000,Descendente,21,2.3160,172578,62560,0,1021,a1b2c3d
+Intercambio Directo,10000,Descendente,22,1177.6700,49995000,49995000,0,1022,a1b2c3d
+Shellsort,10000,Descendente,22,1.9950,172578,62560,0,1022,a1b2c3d
+Intercambio Directo,10000,Descendente,23,1346.6930,49995000,49995000,0,1023,a1b2c3d
+Shellsort,10000,Descendente,23,3.0030,172578,62560,0,1023,a1b2c3d
+Intercambio Directo,10000,Descendente,24,1288.8590,49995000,49995000,0,1024,a1b2c3d
+Shellsort,10000,Descendente,24,3.9890,172578,62560,0,1024,a1b2c3d
+Intercambio Directo,10000,Descendente,25,1254.3850,49995000,49995000,0,1025,a1b2c3d
+Shellsort,10000,Descendente,25,2.1110,172578,62560,0,1025,a1b2c3d
+Intercambio Directo,10000,Descendente,26,1208.7150,49995000,49995000,0,1026,a1b2c3d
+Shellsort,10000,Descendente,26,1.9940,172578,62560,0,1026,a1b2c3d
+Intercambio Directo,10000,Descendente,27,1431.6230,49995000,49995000,0,1027,a1b2c3d
+Shellsort,10000,Descendente,27,1.7210,172578,62560,0,1027,a1b2c3d
+Intercambio Directo,10000,Descendente,28,1568.7090,49995000,49995000,0,1028,a1b2c3d
+Shellsort,10000,Descendente,28,4.0890,172578,62560,0,1028,a1b2c3d
+Intercambio Directo,10000,Descendente,29,1217.3590,49995000,49995000,0,1029,a1b2c3d
+Shellsort,10000,Descendente,29,4.5560,172578,62560,0,1029,a1b2c3d
+Intercambio Directo,10000,Descendente,30,1451.0840,49995000,49995000,0,1030,a1b2c3d
+Shellsort,10000,Descendente,30,1.8950,172578,62560,0,1030,a1b2c3d
