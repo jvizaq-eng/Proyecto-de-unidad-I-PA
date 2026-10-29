@@ -4,7 +4,7 @@
 Comparación empírica de dos algoritmos de ordenamiento en C++: **Intercambio Directo** (método directo, O(n²)) y **Shellsort** (método subcuadrático, O(n^1.5) esperado). Proyecto de la Unidad 01 (evaluación de producto).
 
 * **Estudiante:** Jennifer Elia Viza Quispe (jvizaq@unjbg.edu.pe) — Universidad Nacional Jorge Basadre Grohmann, Tacna, Perú.
-* **Commit final:** `main` *(o puedes poner el código hash de 7 caracteres de tu último commit en GitHub)*
+* **Commit final:** main
 
 ---
 
