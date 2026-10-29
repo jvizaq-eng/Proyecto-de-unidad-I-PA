@@ -1,5 +1,4 @@
 # Proyecto-de-unidad-I-PA
-# proyecto_ordenamiento
 
 Comparación empírica de dos algoritmos de ordenamiento en C++: **Intercambio Directo** (método directo, O(n²)) y **Shellsort** (método subcuadrático, O(n^1.5) esperado). Proyecto de la Unidad 01 (evaluación de producto).
 
@@ -64,3 +63,26 @@ g++ -O2 -std=c++11 src/main.cpp -o experimento
 
 # 3. Generar gráficas estadísticas
 python src/graficar.py
+```
+
+---
+
+## Principales resultados y conclusiones
+
+Tiempo medio (ms) con n = 10 000:
+
+| Patrón | Intercambio Directo | Shellsort |
+| :--- | :---: | :---: |
+| **Aleatorio** | 1 202.78 ms | 5.45 ms |
+| **Ascendente** | 371.36 ms | 1.53 ms |
+| **Descendente** | 1 268.85 ms | 2.59 ms |
+
+* **Intercambio Directo** crece de forma cuadrática estricta (realiza 49 995 000 comparaciones fijas para n = 10 000 independientemente del patrón).
+* **Shellsort** logra un rendimiento subcuadrático drásticamente superior, reduciendo el tiempo de procesamiento en un 99.5% en datos aleatorios (5.45 ms frente a 1 202.78 ms).
+* **Estabilidad:** Intercambio Directo es un algoritmo estable; Shellsort es inestable debido a sus intercambios a larga distancia sobre la brecha (gap).
+
+---
+
+## Video de demostración
+
+[Enlace al video de demostración en YouTube](AQUI_VA_TU_ENLACE_DE_YOUTUBE)
